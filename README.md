@@ -19,7 +19,7 @@ Este es un proyecto de animación inspirado en el clásico protector de pantalla
 ## 🛠 **Cómo ejecutar el proyecto**
 1. **Descarga o clona este repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/dvd-animado.git
+   git clone https://github.com/nicoCT4/Lab4Web.git
 📂 dvd-animado
  ┣ 📜 index.html
  ┣ 📜 README.md
