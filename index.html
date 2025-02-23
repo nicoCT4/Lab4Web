@@ -91,7 +91,7 @@
          content: "DVD VIDEO";
          width: calc(50px + 10px);
          height: calc(50px + 10px);
-         background-color: green;
+         background-color: #19efe8;
          color: white;
          font-weight: bold;
          font-family: Arial, sans-serif;
@@ -99,7 +99,15 @@
          display: flex;
          justify-content: center;
          align-items: center;
-         animation: bounce 5s linear infinite;
+         animation: bounce 10s linear infinite;
+      }
+
+      @keyframes bounce {
+         0% { transform: translate(0, 0); }
+         25% { transform: translate(100px, 50px); background-color: red; }
+         50% { transform: translate(-100px, 70px);background-color: blue; }
+         75% { transform: translate(80px, -40px); background-color: purple;}
+         100% { transform: translate(0, 0); }
       }
 
    </style>
