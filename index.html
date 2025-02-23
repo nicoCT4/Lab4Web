@@ -45,25 +45,46 @@
       /* Base de la TV */
       .base {
          width: 290px;  
-         height: 50px;  
+         height: 35px;  
          background-color: #2e2d2d;
          border-radius: 5px;
       }
 
       /* Botón de encendido */
-      .btn::after {
-         content: "";
-         width: 10px;
-         height: 10px;
+      .btn{
+         width: 5px;
+         height: 5px;
          background-color: green;
          border-radius: 5px;
          display: block;
-         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
-         margin-top: 20px;
-         margin-right: 180px;
+         margin-top: 15px;
+         margin-left: 90px;
       }
 
+      /*btn usb */
+      .usb {
+         position: relative;
+         width: 20px;
+         height: 8px;
+      }
 
+      .usb:nth-last-of-type(1){
+         top: -19px;
+         left: 60px;
+         background-color: black;
+      }
+
+      .usb:nth-last-of-type(2){
+         top: -11px;
+         left: 35px;
+         background-color: black;
+      }
+
+      .usb:nth-last-of-type(3){
+         top: -3px;
+         left: 10px;
+         background-color: black;
+      }
 
       /* Logo DVD en movimiento */
       .tv::after {
@@ -88,7 +109,10 @@
       <div class="tv"></div>
    </div>
    <div class="base">
-      <div class = "btn">
+      <div class = "btn"></div>
+      <div class = "usb"></div>
+      <div class = "usb"></div>
+      <div class = "usb"></div>
    </div>
 </body>
 </html>
