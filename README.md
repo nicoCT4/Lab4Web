@@ -14,7 +14,7 @@ Este es un proyecto de animación inspirado en el clásico protector de pantalla
 - 🎨 **CSS3** (`flexbox`, `animations`, `keyframes`, `calc()`)
 
 ## 📷 **Vista previa**
-![Vista previa](ruta/de/tu/imagen.png)
+![Vista previa](https://23197.benedict.lat/SistemasWeb2025/lab4/)
 
 ## 🛠 **Cómo ejecutar el proyecto**
 1. **Descarga o clona este repositorio**  
