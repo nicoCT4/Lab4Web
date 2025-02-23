@@ -13,13 +13,15 @@ Este es un proyecto de animación inspirado en el clásico protector de pantalla
 - 📄 **HTML5**
 - 🎨 **CSS3** (`flexbox`, `animations`, `keyframes`, `calc()`)
 
-## 📷 **Vista previa**
-![Vista previa](https://23197.benedict.lat/SistemasWeb2025/lab4/)
 
 ## 🛠 **Cómo ejecutar el proyecto**
-1. **Descarga o clona este repositorio**  
+1. **Descarga o clona este repositorio o visitalo en la pagina**  
    ```bash
    git clone https://github.com/nicoCT4/Lab4Web.git
+
+## **Vista previa**
+(https://23197.benedict.lat/SistemasWeb2025/lab4/)
+
 📂 dvd-animado
  ┣ 📜 index.html
  ┣ 📜 README.md
